@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>7YCW6RCLAAJI48H.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\7YCW6RCLAAJI48H.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>478</ymin>
+			<xmax>842</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>62</xmin>
+			<ymin>372</ymin>
+			<xmax>460</xmax>
+			<ymax>725</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>834</ymin>
+			<xmax>127</xmax>
+			<ymax>1072</ymax>
+		</bndbox>
+	</object>
+</annotation>

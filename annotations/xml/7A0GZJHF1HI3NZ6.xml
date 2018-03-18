@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>7A0GZJHF1HI3NZ6.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\7A0GZJHF1HI3NZ6.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1195</xmin>
+			<ymin>527</ymin>
+			<xmax>1321</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1397</xmin>
+			<ymin>529</ymin>
+			<xmax>1643</xmax>
+			<ymax>718</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike/scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1659</xmin>
+			<ymin>590</ymin>
+			<xmax>1775</xmax>
+			<ymax>733</ymax>
+		</bndbox>
+	</object>
+</annotation>

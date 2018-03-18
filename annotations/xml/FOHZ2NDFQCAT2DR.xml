@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>FOHZ2NDFQCAT2DR.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\FOHZ2NDFQCAT2DR.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>22</ymin>
+			<xmax>971</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>930</xmin>
+			<ymin>454</ymin>
+			<xmax>1130</xmax>
+			<ymax>660</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bike/scooter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1121</xmin>
+			<ymin>516</ymin>
+			<xmax>1221</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

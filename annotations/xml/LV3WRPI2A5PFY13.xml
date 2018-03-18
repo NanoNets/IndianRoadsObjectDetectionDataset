@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sonali</folder>
+	<filename>LV3WRPI2A5PFY13.png</filename>
+	<path>E:\17feb work\sonali\LV3WRPI2A5PFY13.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1319</xmin>
+			<ymin>577</ymin>
+			<xmax>1920</xmax>
+			<ymax>996</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1284</xmin>
+			<ymin>560</ymin>
+			<xmax>1402</xmax>
+			<ymax>639</ymax>
+		</bndbox>
+	</object>
+</annotation>

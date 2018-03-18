@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>D127J2IRXFMO814.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\D127J2IRXFMO814.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>263</ymin>
+			<xmax>480</xmax>
+			<ymax>1078</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>280</xmin>
+			<ymin>160</ymin>
+			<xmax>927</xmax>
+			<ymax>692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>715</xmin>
+			<ymin>395</ymin>
+			<xmax>1227</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+</annotation>

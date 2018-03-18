@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>DUMNXGS452B3XQW.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\DUMNXGS452B3XQW.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>360</ymin>
+			<xmax>501</xmax>
+			<ymax>828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>rickshaw</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>636</xmin>
+			<ymin>407</ymin>
+			<xmax>886</xmax>
+			<ymax>763</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>871</xmin>
+			<ymin>457</ymin>
+			<xmax>1492</xmax>
+			<ymax>925</ymax>
+		</bndbox>
+	</object>
+</annotation>

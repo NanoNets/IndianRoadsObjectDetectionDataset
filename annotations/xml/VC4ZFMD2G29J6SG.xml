@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sonali</folder>
+	<filename>VC4ZFMD2G29J6SG.png</filename>
+	<path>E:\17feb work\sonali\VC4ZFMD2G29J6SG.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>7</ymin>
+			<xmax>875</xmax>
+			<ymax>869</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>743</xmin>
+			<ymin>430</ymin>
+			<xmax>1225</xmax>
+			<ymax>848</ymax>
+		</bndbox>
+	</object>
+</annotation>

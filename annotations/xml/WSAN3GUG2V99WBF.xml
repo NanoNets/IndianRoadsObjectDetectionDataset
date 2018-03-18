@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sonali</folder>
+	<filename>WSAN3GUG2V99WBF.png</filename>
+	<path>E:\17feb work\sonali\WSAN3GUG2V99WBF.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>996</xmin>
+			<ymin>486</ymin>
+			<xmax>1040</xmax>
+			<ymax>722</ymax>
+		</bndbox>
+	</object>
+</annotation>

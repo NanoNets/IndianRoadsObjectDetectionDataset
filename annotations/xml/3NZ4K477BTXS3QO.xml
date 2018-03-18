@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>3NZ4K477BTXS3QO.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\3NZ4K477BTXS3QO.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>424</xmin>
+			<ymin>445</ymin>
+			<xmax>495</xmax>
+			<ymax>637</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>869</xmin>
+			<ymin>514</ymin>
+			<xmax>1057</xmax>
+			<ymax>684</ymax>
+		</bndbox>
+	</object>
+</annotation>

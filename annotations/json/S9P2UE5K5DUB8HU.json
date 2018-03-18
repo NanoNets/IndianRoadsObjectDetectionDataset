@@ -1,0 +1,1 @@
+{"segmented": 0, "object": [{"name": "rickshaw", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 575, "ymin": 448, "xmax": 940, "ymax": 877}}, {"name": "pedestrian", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 534, "ymin": 460, "xmax": 661, "ymax": 774}}], "size": {"width": 1920, "height": 1080, "depth": 3}}

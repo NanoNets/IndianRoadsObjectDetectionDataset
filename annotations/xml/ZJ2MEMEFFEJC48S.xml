@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sonali</folder>
+	<filename>ZJ2MEMEFFEJC48S.png</filename>
+	<path>E:\17feb work\sonali\ZJ2MEMEFFEJC48S.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>408</xmin>
+			<ymin>469</ymin>
+			<xmax>528</xmax>
+			<ymax>974</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>646</xmin>
+			<ymin>510</ymin>
+			<xmax>746</xmax>
+			<ymax>701</ymax>
+		</bndbox>
+	</object>
+</annotation>

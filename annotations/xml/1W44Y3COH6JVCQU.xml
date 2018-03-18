@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Nikita</folder>
+	<filename>1W44Y3COH6JVCQU.png</filename>
+	<path>C:\Users\nikita\Desktop\Nikita\1W44Y3COH6JVCQU.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>692</xmin>
+			<ymin>375</ymin>
+			<xmax>1230</xmax>
+			<ymax>845</ymax>
+		</bndbox>
+	</object>
+</annotation>

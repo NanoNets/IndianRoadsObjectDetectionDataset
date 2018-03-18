@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sonali</folder>
+	<filename>Y9TN0GN907VPLUW.png</filename>
+	<path>E:\17feb work\sonali\Y9TN0GN907VPLUW.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>887</xmin>
+			<ymin>492</ymin>
+			<xmax>969</xmax>
+			<ymax>592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1113</xmin>
+			<ymin>539</ymin>
+			<xmax>1475</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>sonali</folder>
+	<filename>KYVJRG3UYYCA128.png</filename>
+	<path>E:\17feb work\sonali\KYVJRG3UYYCA128.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>734</xmin>
+			<ymin>430</ymin>
+			<xmax>1219</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>52</xmin>
+			<ymin>10</ymin>
+			<xmax>866</xmax>
+			<ymax>810</ymax>
+		</bndbox>
+	</object>
+</annotation>

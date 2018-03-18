@@ -1,0 +1,1 @@
+{"segmented": 0, "object": [{"name": "truck", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 5, "ymin": 7, "xmax": 875, "ymax": 869}}, {"name": "car", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 743, "ymin": 430, "xmax": 1225, "ymax": 848}}], "size": {"width": 1920, "height": 1080, "depth": 3}}

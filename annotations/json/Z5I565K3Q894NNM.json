@@ -1,0 +1,1 @@
+{"segmented": 0, "object": [{"name": "pedestrian", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 134, "ymin": 422, "xmax": 249, "ymax": 692}}, {"name": "pedestrian", "pose": "Unspecified", "truncated": 0, "difficult": 0, "bndbox": {"xmin": 458, "ymin": 445, "xmax": 537, "ymax": 583}}], "size": {"width": 1920, "height": 1080, "depth": 3}}

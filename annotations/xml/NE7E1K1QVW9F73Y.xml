@@ -1,0 +1,26 @@
+<annotation>
+	<folder>large</folder>
+	<filename>NE7E1K1QVW9F73Y.png</filename>
+	<path>C:\Users\sonali.NEWOXY\Desktop\large-20180217T072723Z-001\large\NE7E1K1QVW9F73Y.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>pedestrian</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>725</xmin>
+			<ymin>512</ymin>
+			<xmax>761</xmax>
+			<ymax>562</ymax>
+		</bndbox>
+	</object>
+</annotation>

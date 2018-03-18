@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>81ITTGBOAW2GY86.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\81ITTGBOAW2GY86.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>498</xmin>
+			<ymin>431</ymin>
+			<xmax>821</xmax>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>

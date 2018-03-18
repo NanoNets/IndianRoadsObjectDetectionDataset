@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>D48O9G6GW6X8WUV.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\D48O9G6GW6X8WUV.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>657</xmin>
+			<ymin>378</ymin>
+			<xmax>1286</xmax>
+			<ymax>872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>7</xmin>
+			<ymin>1</ymin>
+			<xmax>886</xmax>
+			<ymax>916</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Large 2_Nikita</folder>
+	<filename>5XFNXWOOGZIMS2O.png</filename>
+	<path>C:\Users\nikita\Desktop\Large 2_Nikita\5XFNXWOOGZIMS2O.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1920</width>
+		<height>1080</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>683</xmin>
+			<ymin>398</ymin>
+			<xmax>1224</xmax>
+			<ymax>851</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>truck</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>12</xmin>
+			<ymin>1</ymin>
+			<xmax>877</xmax>
+			<ymax>837</ymax>
+		</bndbox>
+	</object>
+</annotation>
