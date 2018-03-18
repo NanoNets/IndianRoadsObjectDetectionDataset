@@ -14,7 +14,7 @@
 
 ## Tracking Vehicles on Indian Roads
 
-![Vehicles on Indian Roads](https://imgur.com/a/Xp1yz)
+![Vehicles on Indian Roads](https://i.imgur.com/DLddtkT.gif)
 
 Annotations are present for each frame and have the same name as the image name. You can find the example to train a model in python and node, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
 
