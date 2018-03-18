@@ -12,9 +12,9 @@
 
 ** **
 
-## Tracking the Millenium Falcon
+## Tracking Vehicles on Indian Roads
 
-![Vehicles on Indian Roads](https://cdn-images-1.medium.com/max/800/1*Gqdy5P1yxrhFp5nQ3Ub6gg.gif)
+![Vehicles on Indian Roads](https://imgur.com/a/Xp1yz)
 
 Annotations are present for each frame and have the same name as the image name. You can find the example to train a model in python and node, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
 
@@ -80,7 +80,7 @@ python ./code/prediction.py PATH_TO_YOUR_IMAGE.jpg
 
 **Sample Usage:**
 ```bash
-python ./code/prediction.py ./images/videoplayback0051.jpg
+python ./code/prediction.py ./images/00O9CLJ7G4GKX1S.png
 ```
 
 
