@@ -14,9 +14,7 @@
 
 ## Tracking the Millenium Falcon
 
-Images and annotations taken from - https://github.com/bourdakos1/Custom-Object-Detection
-
-[![Watch the video](https://cdn-images-1.medium.com/max/800/1*Gqdy5P1yxrhFp5nQ3Ub6gg.gif)]
+![Vehicles on Indian Roads](https://cdn-images-1.medium.com/max/800/1*Gqdy5P1yxrhFp5nQ3Ub6gg.gif)
 
 Annotations are present for each frame and have the same name as the image name. You can find the example to train a model in python and node, by updating the api-key and model id in corresponding file. There is also a pre-processed json annotations folder that are ready payload for nanonets api.
 
