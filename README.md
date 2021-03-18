@@ -29,7 +29,7 @@ Annotations are present for each frame and have the same name as the image name.
  
 ### Step 1: Clone the Repo
 ```bash
-https://github.com/NanoNets/IndianRoadsObjectDetectionDataset
+git clone https://github.com/NanoNets/IndianRoadsObjectDetectionDataset
 cd IndianRoadsObjectDetectionDataset
 sudo pip install requests
 ```
